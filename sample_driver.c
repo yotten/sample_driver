@@ -1,7 +1,7 @@
 #include <linux/module.h>
 #include <linux/init.h>
 
-MODULE_LICENSE("Dual BSD/GPL");
+MODULE_LICENSE("Dual MIT/GPL");
 
 static int symple_driver_init(void)
 {
