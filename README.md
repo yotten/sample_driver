@@ -1,4 +1,4 @@
-# sample_driver
+# RaspberryPi用sample_driver
 
 # 構成
 <pre>
